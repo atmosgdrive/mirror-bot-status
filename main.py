@@ -145,7 +145,7 @@ def delete_channel(channel):
 
 def footer():
     msg = f"\n{FOOTER_MSG}\n"
-    msg += f"⏱ Update {datetime.now(utc).astimezone(timezone(TIME_ZONE)).strftime('%d/%m %H:%M:%S')} {TIME_ZONE}"
+    msg += f"⏱ Update {datetime.now(utc).astimezone(timezone(TIME_ZONE)).strftime('%d %B - %I:%M:%S %p')} {TIME_ZONE}"
     return msg
 
 
