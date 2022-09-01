@@ -1,0 +1,35 @@
+{
+  "bots": {
+    "bot1": {
+      "base_url_of_bot": "https://bonbobbiee.herokuapp.com",
+      "host": "Heroku",
+      "bot_uname": "@Tqbit1bot"
+    }
+    "bot2": {
+      "base_url_of_bot": "https://dispersion-low.herokuapp.com",
+      "host": "Heroku",
+      "bot_uname": "@Tqbit2bot"
+    }
+    "bot3": {
+      "base_url_of_bot": "https://maniten679biz.herokuapp.com",
+      "host": "Heroku",
+      "bot_uname": "@Tqbit3bot"
+    }
+    "bot4": {
+      "base_url_of_bot": "http://0.0.0.0",
+      "host": "VPS",
+      "bot_uname": "@Tqbit4bot"
+    }
+    "bot5": {
+      "base_url_of_bot": "http://0.0.0.0",
+      "host": "Git-Action",
+      "bot_uname": "@Tqbit5bot"
+    }
+  },
+  "channels": {
+    "chat1": {
+      "chat_id": "-1001599837304",
+      "message_id": "106"
+    }
+  }
+}
