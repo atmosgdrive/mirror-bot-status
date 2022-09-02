@@ -43,7 +43,7 @@ if CONFIG_JSON_URL:
     except Exception as e:
         log_error(f"CONFIG_JSON_URL: {e}")
 
-load_dotenv('.env', override=True)
+load_dotenv('config.env', override=True)
 
 LOGGER = getLogger(__name__)
 
