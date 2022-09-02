@@ -118,6 +118,6 @@ def status():
     }
 ```
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/junedkh/mirror-bot-status"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/atmosgdrive/mirror-bot-status"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ## Waiting for pr
