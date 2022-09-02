@@ -3,7 +3,7 @@
   "description": "Mirror bot status to a channel/group/user",
   "logo": "https://cdn.jsdelivr.net/gh/junedkh/somesrcs@main/poster.png",
   "keywords": ["Mirror bot", "Mirror", "bot", "mtlb", "status", "statusbot"],
-  "repository": "https://github.com/junedkh/mirror-bot-status",
+  "repository": "https://github.com/atmosgdrive/mirror-bot-status",
   "env": {
     "BOT_TOKEN": {
       "description": "You guys know how to get it",
