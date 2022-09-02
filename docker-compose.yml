@@ -7,7 +7,7 @@ services:
       context: .
       dockerfile: Dockerfile
     environment:
-      - CONFIG_JSON_URL=
-      - CONFIG_ENV_URL=
+      - CONFIG_JSON_URL="https://gist.githubusercontent.com/atmosgdrive/f241859a234147640d906e5270407268/raw/config.json"
+      - CONFIG_ENV_URL="https://gist.githubusercontent.com/atmosgdrive/211c82be918336c4829f14b4e8747ec9/raw/config.env"
     command: python3 main.py
     restart: on-failure
